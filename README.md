@@ -15,5 +15,6 @@ The objective of this thesis is to develop an adaptive framework that leverages 
 To replicate or further develop the adaptive anomaly detection framework, follow the setup and execution instructions below.
 
 ### Prerequisites
-- Import .ipynb file to Kaggle to run
-
+- Import .ipynb file to Kaggle
+- Import dataset from this source: https://www.kaggle.com/datasets/anonymous72612/cleaned-cicids/
+- Start session and run on Kaggle
